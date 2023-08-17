@@ -1,2 +1,4 @@
 # India-Trade-Dataset-Analysis - VIZ
 https://public.tableau.com/app/profile/nitya.jaiswal/viz/ComparisionofExportandImportTradeDataInsightsfrom2010to2018/TradeinsightaboutIndia
+
+My Tableau project offers a comprehensive exploration of global trade dynamics through data visualization. By addressing key questions, I unveil intricate trade patterns: identifying exports and imports for specific countries and products. Tracking trade growth over time highlights evolving economic relationships. Analyzing the trade network for a chosen HS product illuminates its worldwide distribution. Determining the most favored nation and highest product value traded provides valuable insights. I uncover peak trading years and dissect trade balances across countries. Moreover, a detailed comparison between import and export values for commodities reveals trade trends. Through insightful visuals, this project presents a holistic view of international trade intricacies.
